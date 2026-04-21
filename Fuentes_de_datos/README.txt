@@ -10,3 +10,5 @@ Fuentes de datos:
 https://vizhub.healthdata.org/gbd-compare/
 
 https://www.healthdata.org/data-tools-practices/interactive-visuals/gbd-compare
+
+https://ourworldindata.org/grapher/share-of-adults-defined-as-obese
